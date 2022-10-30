@@ -10,3 +10,5 @@ This is a data visualization project about AQI data in some cities/provinces of 
 - For the visualization's story: it can be read from the .docx file in the "Documentation" folder. 
 
 ![image](https://user-images.githubusercontent.com/26022865/198860986-c2573cda-9985-4d92-b87e-cb4d52247c45.png)
+![image](https://user-images.githubusercontent.com/26022865/198860997-3b8103b0-61bd-49f4-8a40-31433975e785.png)
+
